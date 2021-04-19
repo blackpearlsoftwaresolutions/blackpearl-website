@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Source/.vs/blackPearlv1
+/Source/blackPearlv1.Web/bin
+/Source/blackPearlv1.Web/obj
+/Source/packages
